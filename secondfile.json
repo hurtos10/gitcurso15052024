@@ -1,6 +1,9 @@
 {
     "nombre":"Oscar Alejandro",
-    "apellidos": "Hurtado Escobedo",
+    "lastname": "Hurtado Escobedo",
     "carrera":"Ing.Informatica",
-    "empresa":"Axity"
+    "empresa":"Axity",
+    "TELEFONO":445553344433,
+    "webpage":"https://jdhjhkjhdkjhdkjh.com",
+    "proyecto":"mesa de servicio"
 }
