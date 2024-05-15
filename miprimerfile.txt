@@ -1,8 +1,10 @@
-Este es un archivo de prueba.
 
-Eliminarse solo en caso de ser necesario.
+Prólogo
 
+En el vertiginoso mundo de la tecnología, cada día emergen nuevas herramientas y metodologías que transforman la manera en que construimos y colaboramos en proyectos. Git, sin lugar a dudas, se ha convertido en una pieza fundamental en el arsenal de cualquier desarrollador moderno.
 
+Este libro nace de la necesidad de brindar una guía clara y concisa sobre Git, desde los conceptos básicos hasta técnicas avanzadas, diseñada especialmente para aquellos que desean dominar esta potente herramienta de control de versiones.
 
+A través de una combinación de explicaciones claras, ejemplos prácticos y consejos expertos, este curso de Git te llevará desde los fundamentos esenciales hasta las estrategias de ramificación y fusión más complejas. Ya sea que estés trabajando en un proyecto personal o en un equipo de desarrollo, aprenderás cómo aprovechar al máximo las capacidades de Git para gestionar eficientemente el flujo de trabajo y colaborar de manera efectiva con otros programadores.
 
-hola que hace , este es un ejemplo de cambio de archivo.
+Ya sea que estés dando tus primeros pasos en el mundo del control de versiones o que desees perfeccionar tus habilidades existentes, este libro te brindará el conocimiento y la confianza necesarios para utilizar Git de manera efectiva en cualquier proyecto. Prepárate para embarcarte en un viaje de descubrimiento, donde cada página te acercará un paso más hacia el dominio total de Git y el éxito en tus proyectos de desarrollo de software.
