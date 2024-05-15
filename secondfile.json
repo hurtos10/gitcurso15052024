@@ -1,6 +1,7 @@
 {
     "nombre":"Oscar Alejandro",
-    "apellidos": "Hurtado Escobedo",
+    "lastname": "Hurtado Escobedo",
     "carrera":"Ing.Informatica",
-    "empresa":"Axity"
+    "empresa":"Axity",
+    "proyecto":"mesa de servicio"
 }
