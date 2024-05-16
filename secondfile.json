@@ -1,7 +1,10 @@
 {
     "nombre":"Oscar Alejandro",
     "lastname": "Hurtado Escobedo",
-    "carrera":"Ing.Informatica",
+    "carreraa":"Ing.Informatica",
+    "carrerab":"Ing.Informatica",
+
+    "carreraf":"Ing.Informatica",
     "empresa":"Axity",
     "TELEFONO":445553344433,
     "webpage":"https://jdhjhkjhdkjhdkjh.com",
@@ -12,5 +15,19 @@
     "empresa4":"Axity",
     "TELEFONO1":1111111111,
     "webpage1":"https://jdhwww.googlekjh.com",
-    "proyecto1":"helpdesk"
+    "proyecto1":"helpdesk",
+    "carrera1":"Ing.Informatica",
+    "empresa2":"Axity",
+    "carrera3":"Ing.Informatica",
+    "empresa4":"Axity",
+
+    "carrerac":"Ing.Informatica",
+    "carrerad":"Ing.Informatica",
+    "carrerae":"Ing.Informatica",
+    "carrerac":"Ing.Informatica",
+    "carrerad":"Ing.Informatica",
+    "carrerae":"Ing.Informatica",
+    "carrerac":"Ing.Informatica",
+    "carrerad":"Ing.Informatica",
+    "carrerae":"Ing.Informatica"
 }
